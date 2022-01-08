@@ -9,7 +9,7 @@ this course is for you if you are familiar with data analytics libraries in Pyth
 After finishing this course, you will grasp the basic concepts in machine learning and be able to use machine learning techniques on any data with Scikit-Learn, the most commonly used library for machine learning in python.
 
 ## Note
-The notebook cells are missaligned diagonally when rendered on GitHub. I have not found the solution to this problem unfortunately. However, they are correctly aligned when rendered on Jupyter, so I recommend downloading them first.
+The notebook cells are oddly aligned horizontally when rendered on GitHub. I have not found the solution to this problem unfortunately. However, they are correctly aligned when rendered on Jupyter, so I recommend downloading them first.
 
 <hr>
 
