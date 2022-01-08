@@ -62,8 +62,6 @@ The notebook cells are missaligned diagonally when rendered on GitHub. I have no
 
 ## Contact
 
-Feel free to email me your questions about any of the covered topics or generally about Machine Learning subjects:
+Feel free to email me your questions here: yara.mohamadi@gmail.com
 
-yara.mohamadi@gmail.com
-
-Material gathered, created, and taught by Yara Mohamadi
+Material gathered, created, and taught by <b>Yara Mohamadi</b>.
