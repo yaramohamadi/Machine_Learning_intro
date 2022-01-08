@@ -2,7 +2,7 @@
 
 :) سلام دوستان
 
-This is the material used in my Persian machine learning with python course available on youtube.
+This is the material used in my Persian machine learning with python course available on [YouTube](https://www.youtube.com/playlist?list=PL2_W-QFuPimVkqWnFnSf-kOWtrGs1avpO). 
 
 This 2 hours long course offers a practical introduction into Machine Learning with Python. 
 this course is for you if you are familiar with data analytics libraries in Python (Pandas, NumPy, Matplotlib) and looking for a hands-on introduction to machine learning.
