@@ -2,14 +2,14 @@
 
 :) سلام دوستان
 
-This is the material used in my free Persian machine learning with python course available on [YouTube](https://www.youtube.com/watch?v=qgw1zjj8fyc&list=PL2_W-QFuPimVkqWnFnSf-kOWtrGs1avpO&index=1&t=18s). 
+This is the material used in my free Persian course: Machine Learning with Python (available on [YouTube](https://www.youtube.com/watch?v=qgw1zjj8fyc&list=PL2_W-QFuPimVkqWnFnSf-kOWtrGs1avpO&index=1&t=18s)). 
 
 This 2 hours long course offers a practical introduction into Machine Learning with Python. 
-this course is for you if you are familiar with data analytics libraries in Python (Pandas, NumPy, Matplotlib) and looking for a hands-on introduction to machine learning.
-After finishing this course, you will grasp the basic concepts in machine learning and be able to use machine learning techniques on any data with Scikit-Learn, the most commonly used library for machine learning in python.
+this course is for you if you are familiar with data analytics libraries in Python (Pandas, NumPy, Matplotlib) and you are looking for a hands-on introduction to Machine Learning.
+After finishing this course, you will grasp the basic concepts in Machine Learning and be able to use its techniques on any data with Scikit-Learn, the most commonly used library for Machine Learning in Python.
 
 ## Note
-The notebook cells are oddly aligned horizontally when rendered on GitHub. I have not found the solution to this problem unfortunately. However, they are correctly aligned when rendered on Jupyter, so I recommend downloading th notebook files and opening them with Jupyter or Colab or similar IDEs.
+Oddly, the notebook cells are horizontally aligned when rendered on GitHub. I haven't found the solution to this problem unfortunately. However, they are correctly aligned when rendered on Jupyter, so I recommend downloading the notebook files and opening them with Jupyter or Colab or similar IDEs.
 
 <hr>
 
@@ -17,14 +17,14 @@ The notebook cells are oddly aligned horizontally when rendered on GitHub. I hav
 
 #### Intro_to_ML_1:
   - 1:
-    - What is machine learning?
-    - Types of machine learning
-    - Types of supervised learning
+    - What is Machine Learning?
+    - Types of Machine Learning
+    - Types of Supervised Learning
   - 2.1:
     - Types of Regression
     - Simple Linear Regression
   - 2.2:
-    - Model Evaluation in Regression Models
+    - Model Evaluation in Regression
     - Overfitting
     - Train/test split
     - Cross-Validation
@@ -49,7 +49,7 @@ The notebook cells are oddly aligned horizontally when rendered on GitHub. I hav
   - 3.3:
     - Decision Trees with Python
     - Logistic Regression with Python
-    - Support Vector Machines (SVM) with python
+    - Support Vector Machines (SVM) with Python
   - 3.4:
     - Neural Networks
     - Perceptron with Python
