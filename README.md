@@ -66,4 +66,4 @@ Oddly, the notebook cells are horizontally aligned when rendered on GitHub. I ha
 
 Feel free to email me your questions here: yara.mohamadi@gmail.com
 
-Material gathered, created, and taught by <b>Yara Mohamadi</b>.
+Material gathered, created, and taught by <b>Yara Bahram</b>.
